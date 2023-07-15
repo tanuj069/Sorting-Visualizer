@@ -2,7 +2,7 @@
 
 <h3 align="left">For Bubble Sort Click Here:</h3>
 <p align="left">
-<a href="https://github.com/tanuj069/Sorting-Visualizer/tree/main/sortingVisualizer/bubblesort" target="blank"><img align="center" src="https://tse2.mm.bing.net/th?id=OIP.311UgxvHomIbP0lAdinSEwHaE8&pid=Api&P=0" alt="tanuj069" height="100" /></a>
+<a href="https://github.com/tanuj069/Sorting-Visualizer/tree/main/sortingVisualizer/bubblesort" target="blank"><img align="center" src="https://tse1.mm.bing.net/th?id=OIP.1d7V9Q4ztzcAkAH8Gzo7FAHaEZ&pid=Api&P=0&h=180" alt="tanuj069" height="100" /></a>
 
 <h3 align="left">For Insertion Sort Click Here:</h3>
 <p align="left">
@@ -10,7 +10,7 @@
 
 <h3 align="left">For Merge Sort Click Here:</h3>
 <p align="left">
-<a href="https://github.com/tanuj069/Sorting-Visualizer/tree/main/sortingVisualizer/mergesort" target="blank"><img align="center" src="https://tse3.mm.bing.net/th?id=OIP.0Uq5Kh4Ef3BBYyyX6oRhQwHaGn&pid=Api&P=0" alt="tanuj069" height="100" /></a>
+<a href="https://github.com/tanuj069/Sorting-Visualizer/tree/main/sortingVisualizer/mergesort" target="blank"><img align="center" src="https://tse3.mm.bing.net/th?id=OIP.bak49BrBFSMK5-92hEVSkQHaGC&pid=Api&P=0&h=180" alt="tanuj069" height="100" /></a>
 
 <h3 align="left">For Selection Sort Click Here:</h3>
 <p align="left">
